@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Backup files
+backups/
+
+# If you have any sensitive configuration files
+config/
+
+# Node.js modules (if using Node.js in your project)
+node_modules/
+
+# Python virtual environment (if using Python in your project)
+venv/
+
